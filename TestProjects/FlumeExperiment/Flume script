@@ -1,0 +1,1 @@
+./flume-ng agent -n hadoopMR -c conf -f /usr/lib/flume-ng/apache-flume-1.4.0-bin/conf/hadoopMRFlume.conf
